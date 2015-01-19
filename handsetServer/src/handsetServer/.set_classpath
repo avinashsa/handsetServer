@@ -1,0 +1,1 @@
+export CLASSPATH=$CLASSPATH:/home/xavisar/src/java/handsetServer/handsetServer/src:/usr/lib/ojdbc6.jar
